@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kouzgr
-- 👀 I’m interested in Python and after that .js-html
-- 🌱 I’m currently learning python
+- 👀 I’m interested in full stack development
+- 🌱 I’m currently learning html css js
 
 <!---
 kouzgr/kouzgr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
